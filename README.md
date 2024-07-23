@@ -5,10 +5,10 @@ The application allows users to manage their tasks efficiently by adding, updati
 
 # Features
 Task Management: Add, edit, delete, and update<br>
-Responsive Design: Fully responsive design using Tailwind CSS.
-MongoDB: Data persistence using MongoDB.
-Express.js: Backend server handling API requests.
-React: Frontend developed with React for dynamic user interface.
+Responsive Design: Fully responsive design using Tailwind CSS.<br>
+MongoDB: Data persistence using MongoDB.<br>
+Express.js: Backend server handling API requests.<br>
+React: Frontend developed with React for dynamic user interface.<br>
 Node.js: Server-side JavaScript runtime.
 
 # Tech Stack
