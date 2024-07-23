@@ -12,8 +12,8 @@ React: Frontend developed with React for dynamic user interface.<br>
 Node.js: Server-side JavaScript runtime.
 
 # Tech Stack
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express.js
+Frontend: React, Tailwind CSS<br>
+Backend: Node.js, Express.js<br>
 Database: MongoDB
 
 # To View the project Click on the below link<br>
