@@ -4,7 +4,7 @@ This Todo App is a full-stack web application built using the MERN stack (MongoD
 The application allows users to manage their tasks efficiently by adding, updating, deleting the tasks.
 
 # Features
-Task Management: Add, edit, delete, and update
+Task Management: Add, edit, delete, and update<br>
 Responsive Design: Fully responsive design using Tailwind CSS.
 MongoDB: Data persistence using MongoDB.
 Express.js: Backend server handling API requests.
