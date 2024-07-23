@@ -11,7 +11,7 @@ Express.js: Backend server handling API requests.
 React: Frontend developed with React for dynamic user interface.
 Node.js: Server-side JavaScript runtime.
 
-#Tech Stack
+# Tech Stack
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB
